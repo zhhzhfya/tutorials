@@ -1,12 +1,3 @@
-<p align="center">
-    <a href="https://morvanzhou.github.io/tutorials/" target="_blank">
-    <img width="60%" src="https://github.com/MorvanZhou/tutorials/blob/master/%E7%89%87%E5%A4%B4.png" style="max-width:100%;">
-    </a>
-</p>
-
-
-<br>
-
 我是 周沫凡, [莫烦Python](https://morvanzhou.github.io/) 只是谐音, 我喜欢制作,
 分享所学的东西, 所以你能在这里找到很多有用的东西, 少走弯路. 你能在[这里](https://morvanzhou.github.io/about/)找到关于我的所有东西.
 
